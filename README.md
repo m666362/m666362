@@ -4,7 +4,7 @@
 
 > 🔭 I’m currently working on -
 > 
-## ReactJs -> NodeJs -> Android -> Python(OpenCV)
+## ReactJS -> NodeJS -> Android -> Python(OpenCV)
 
 ![Rayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=m666362&show_icons=true&theme=midnight-purple)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m666362&theme=midnight-purple&layout=compact)]
 
